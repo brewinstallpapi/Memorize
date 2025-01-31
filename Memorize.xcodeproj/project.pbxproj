@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A178983F2D1B0B36000889EC /* Memorize */ = {
+		A15020092D4C2E54009FD1A0 /* Memorize */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Memorize;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		A17898342D1B0B36000889EC = {
 			isa = PBXGroup;
 			children = (
-				A178983F2D1B0B36000889EC /* Memorize */,
+				A15020092D4C2E54009FD1A0 /* Memorize */,
 				A178983E2D1B0B36000889EC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A178983F2D1B0B36000889EC /* Memorize */,
+				A15020092D4C2E54009FD1A0 /* Memorize */,
 			);
 			name = Memorize;
 			packageProductDependencies = (
